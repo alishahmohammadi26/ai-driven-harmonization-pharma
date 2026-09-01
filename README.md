@@ -115,3 +115,5 @@ No external API calls, no LLM dependencies, no patient data.
 ## License
 
 MIT — see [LICENSE](LICENSE)
+
+<!-- maintained-note: keep this repo tidy -->
